@@ -30,6 +30,6 @@ Saurabh Shukla is an experienced teacher, computer programmer, YouTuber and Moti
 
 MySirG is a popular YouTube channel created by Saurabh Shukla, offering high-quality educational content on programming languages, data structures, algorithms, and other computer science topics. With millions of subscribers, MySirG is a trusted source for students and professionals alike.
 
-For more information about the course schedule and enrollment, visit [MySirG Youtube Channel](https://www.youtube.com/MySirG) or [MySirG Website](https://premium.mysirg.com).
+For more information about the course schedule and enrollment, visit [MySirG Youtube Channel](https://www.youtube.com/@MySirGDotCom) or [MySirG Website](https://premium.mysirg.com).
 
 **Note:** This repository is created for educational purposes only. Respect academic integrity and avoid plagiarism while using these assignments for learning and practice.
