@@ -8,7 +8,7 @@ int main()
     printf("Enter a three digits number only: ");
     scanf("%d", &num1);
 
-    num2 = (num1 % 10 * 100) + (num1 / 10 % 10 * 10) + (num1 / 100);
+    num2 = (num1 % 10 * 100) + (num1 / 10);
     printf("The rotated number of %d is %d\n", num1, num2);
 
     return 0;
