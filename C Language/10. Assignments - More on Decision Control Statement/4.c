@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main()
 {
-    int month, days;
+    int month;
 
     printf("Enter the month number: ");
     scanf("%d", &month);
